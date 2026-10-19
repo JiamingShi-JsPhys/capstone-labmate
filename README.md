@@ -62,3 +62,15 @@ This tool **will never do the experiment for you**. Data must be collected manua
 
 - **License**: [MIT](LICENSE)
 - **Author & Maintainer**: Jiaming Shi (Westlake University)
+
+## Report issues
+
+Preferred: Open an issue on the repository's **Issues** page. For security-vulnerability reports, use the alternative channel below.
+
+Alternative (security-vulnerability reports only): Send an email to `jiamingshi_git@outlook.com`.
+
+- **Subject**: Must include the prefix `agent-skill_report`, the specific skill name, and a brief description.
+  - Example: `agent-skill_report capstone-labmate: path traversal allows reading outside the task folder`
+- **Body**: Must include reproduction steps, expected behavior, actual behavior, and the runtime environment (OS, Python version, relevant dependencies installed).
+- For severe reports like "file lost or corrupted", attach the before/after directory tree (`tree` output) and the generated `verification_report.md`.
+- Contributors who submit clear, reproducible issues or pull requests will be listed in the acknowledgements of the next release notes.
