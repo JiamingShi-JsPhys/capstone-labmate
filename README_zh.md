@@ -62,3 +62,15 @@ pip install numpy matplotlib pypdf
 
 - **License**: [MIT](LICENSE)
 - **Author & Maintainer**: Jiaming Shi (Westlake University)
+
+## 报告问题
+
+首选：在本仓库的 **Issues** 页面提交问题（对于安全漏洞问题的报告，使用备选方案）。
+
+备选（仅供报告安全漏洞问题）：发送邮件至 `jiamingshi_git@outlook.com`
+
+- **邮件主题**：必须包含前缀 `agent-skill_report`，并注明具体技能与简要问题。
+  - 示例：`agent-skill_report capstone-labmate: path traversal 可读取任务文件夹之外的路径`
+- **邮件正文**：必须包含复现步骤、预期行为、实际行为以及运行环境（操作系统、Python 版本、相关依赖安装状态）。
+- 针对「文件丢失或损坏」的严重报告，请附带前后目录树结构（`tree` 输出）与生成的 `verification_report.md`。
+- 提交清晰、可复现 Issue 或 Pull Request 的贡献者，将被列入下个版本发布说明的致谢名单。
