@@ -8,6 +8,9 @@
 
 > **Disclaimer**: This is an independent, open-source, third-party tool for interoperability and educational assistance. It is not affiliated with, endorsed by, or sponsored by PASCO Scientific. "PASCO" and "Capstone" are registered trademarks of their respective owners. All processing runs locally; users are responsible for complying with their institution's academic-integrity policy.
 
+> Be the way, this repository contains auxiliary tools developed by the author to automate research workflows. It is not a peer-reviewed academic project. Some boilerplate or utility scripts may have been generated with the assistance of AI, and have been integrated with high-level review and modifications by the author. The author assumes no responsibility for any third-party code issues, but commits to promptly addressing any valid claims.
+
+
 ---
 
 ## What It Does (Workflow)
