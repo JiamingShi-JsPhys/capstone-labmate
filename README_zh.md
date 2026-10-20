@@ -10,6 +10,7 @@
 >
 > **Disclaimer**: This is an independent, open-source, third-party tool for interoperability and educational assistance. It is not affiliated with, endorsed by, or sponsored by PASCO Scientific. "PASCO" and "Capstone" are registered trademarks of their respective owners. All processing runs locally; users are responsible for complying with their institution's academic-integrity policy.
 
+>除此之外，本仓库包含作者为自动化科研工作流而开发的辅助工具。它不是经过同行评审的学术项目。部分样板代码或实用脚本可能在 AI 辅助下生成，并经过作者高层面的审查与修改整合。作者对任何第三方代码问题不承担责任，但承诺及时处理任何合理的诉求。
 ---
 
 ## 它能做什么 (Workflow)
