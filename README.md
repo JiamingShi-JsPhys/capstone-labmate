@@ -5,6 +5,8 @@
 > A local-first, open-source AI skill pack that helps teachers and students work with PASCO Capstone (`.cap`) lab data—all parsing and processing run locally to protect data privacy.
 
 ---
+**Looking for the integrated ecosystem?**
+This repository contains standalone modules. For the full cross-platform plugin with the 4-layer deterministic orchestration architecture, please check out the integrated suite: [**Chelate Shell**](https://github.com/JiamingShi-JsPhys/chelate-shell).
 
 > **Disclaimer**: This is an independent, open-source, third-party tool for interoperability and educational assistance. It is not affiliated with, endorsed by, or sponsored by PASCO Scientific. "PASCO" and "Capstone" are registered trademarks of their respective owners. All processing runs locally; users are responsible for complying with their institution's academic-integrity policy.
 
